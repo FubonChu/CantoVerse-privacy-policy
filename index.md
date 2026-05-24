@@ -76,4 +76,4 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 ## 11. Contact
 
-If you have questions about this Privacy Policy or how information is handled, please contact TrioCheese through info@triocheese.com or www.triocheese.com.
+If you have questions about this Privacy Policy or how information is handled, please contact TrioCheese through [info@triocheese.com](mailto:info@triocheese.com) or [www.triocheese.com](https://www.triocheese.com).
