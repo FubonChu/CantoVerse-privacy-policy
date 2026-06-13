@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 20 May 2026
+Last updated: 13 June 2026
 
 This Privacy Policy explains how CantoVerse (“the App”, “we”, “us”, or “our”) collects, uses, processes, and protects information in connection with your use of the App.
 
@@ -18,6 +18,8 @@ To maintain app stability, improve the user experience, and understand how featu
 - device type, operating system version, app version, and language settings;
 - crash logs, error reports, performance data, and stability diagnostics;
 - anonymous statistics relating to music discovery, chart browsing, song pages, and outbound listening links.
+
+CantoVerse may use an anonymous app identifier to support lightweight interactions such as 「撐呢首」, including preventing duplicate support actions for the same song and maintaining basic interaction integrity. This identifier is not used for public profiles, comments, messaging, third-party advertising, or cross-app tracking.
 
 We do not intentionally collect information that directly identifies you. Certain third-party services may technically process device identifiers, diagnostics, or similar data in accordance with their own privacy policies and terms.
 
@@ -45,7 +47,7 @@ When you tap an outbound listening link, you may leave the App and open a third-
 
 ## 5. Sharing of Information
 
-We do not sell personal information.
+We do not sell user data.
 
 We may process or share information in the following circumstances:
 
@@ -76,4 +78,4 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 ## 11. Contact
 
-If you have questions about this Privacy Policy or how information is handled, please contact TrioCheese through [info@triocheese.com](mailto:info@triocheese.com) or [www.triocheese.com](https://www.triocheese.com).
+If you have questions about this Privacy Policy or how information is handled, please contact TrioCheese at support@triocheese.com.
